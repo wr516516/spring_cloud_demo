@@ -17,7 +17,8 @@
     </parent>
     <modules>
         <module>admin</module>
-        <module>user</module>
+        <module>DubboExampleClient</module>
+        <module>DubboExampleService</module>
     </modules>
 
     <properties>
